@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <material>
+    <renderpass>
+      <texunit>
+        <tcmod mode="objectscale" a0="0" a1="0" a2="1" b0="0" b1="1" b2="0"/>
+      </texunit>
+    </renderpass>
+  </material>
+</root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <sceneobject>
+    <model path="resources/models/cylinder.dae">
+      <lod path="resources/models/cylinder_lod1.dae" distance="60"/>
+      <lod path="resources/models/cylinder_lod2.dae" distance="120"/>
+    </model>
+    {original_preview}
+    {scale_settings}
+    {original_usercolors}
+    <materialpath name="cap">resources/materials/[{material_name}] xz.nl2mat</materialpath>
+    <materialpath name="side">resources/materials/[{material_name}] cylinder.nl2mat</materialpath>
+  </sceneobject>
+</root>
