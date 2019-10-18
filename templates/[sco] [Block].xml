@@ -2,7 +2,7 @@
 <root>
   <sceneobject>
     <model path="resources/models/block.dae"/>
-    {original_preview}
+    {preview}
     {scale_settings}
     {original_usercolors}
     <materialpath name="floor">resources/materials/[{material_name}] xz.nl2mat</materialpath>

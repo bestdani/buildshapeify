@@ -2,7 +2,7 @@
 <root>
   <sceneobject>
     <model path="resources/models/tri_wall.dae"/>
-    {original_preview}
+    {preview}
     {scale_settings}
     {original_usercolors}
     <materialpath name="editor">resources/materials/[util] editor.nl2mat</materialpath>
